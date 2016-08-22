@@ -15,5 +15,5 @@ There is an example:
 #HOW TO BUILD
 
     - Download and install Arduino 1.6.6 (Tested with this version).
-    - Open Arduino, click File, Preference and select ArdupilotMicro path root.
+    - Open Arduino, click File, Preference and select ArdupilotTiny path root.
 	- Open included example, compile and enjoy!
